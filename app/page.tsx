@@ -227,17 +227,17 @@ export default function Home() {
           <div className="space-grotesk interactable flex flex-col px-5 text-left text-[2.15rem] leading-none tracking-tighter md:hidden md:text-6xl">
             <div className="h-[40px] overflow-hidden">
               <FadeUp className="flex text-black">
-                I&apos;m Adithya Krishnan,
+                I&apos;m Aditya Wagh,
               </FadeUp>
             </div>
             <div className="h-[40px] overflow-hidden">
-              <FadeUp className="text-black">a Software Engineer</FadeUp>
+              <FadeUp className="text-black">a student who</FadeUp>
             </div>
             <div className="h-[40px] overflow-hidden">
-              <FadeUp className="text-black"> crafting</FadeUp>
+              <FadeUp className="text-black"> building</FadeUp>
             </div>
             <div className="h-[40px] overflow-hidden">
-              <FadeUp className="text-black">Digital Experiences.</FadeUp>
+              <FadeUp className="text-black">Dreams.</FadeUp>
             </div>
           </div>
         </section>
@@ -248,7 +248,7 @@ export default function Home() {
               <div className="overflow-hidden">
                 <FadeUp>
                   <div className="interactable m-5 ease-in md:mx-10">
-                    As a final-year undergraduate pursuing a BTech degree in
+                    As a final-year undergraduate pursuing a BCA degree in
                     Computer Science and Engineering, I`m currently interning
                     while also on the lookout for full-time gigs and freelance
                     projects.
