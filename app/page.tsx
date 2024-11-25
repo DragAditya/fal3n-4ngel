@@ -486,8 +486,7 @@ export default function Home() {
           </div>
 
           <div className="font-poppins interactable mt-5 flex flex-col p-4 text-center text-xl md:mt-10">
-            &quot;Like I always say, can&apos;t find a door? Make your
-            own.&quot; – Edward Elric, Anime Fullmetal Alchemist
+            &quot;The longer you live... The more you realize that reality is just made of pain, suffering and emptiness.&quot; – - Madara Uchiha
             <div className="mt-10 text-center text-xl font-light text-slate-600 md:text-2xl">
               - - -
             </div>
