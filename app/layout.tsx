@@ -7,7 +7,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.adithyakrishnan.com"),
+  metadataBase: new URL("https://www.dragadi.com"),
   title: "Adithya Krishnan ",
   description: "a developer with a highly distractable brain",
   keywords: [
@@ -56,20 +56,20 @@ export const metadata: Metadata = {
     "google developer",
     "google developer student clubs",
   ],
-  authors: [{ name: "Adithya Krishnan" }],
-  creator: "Adithya Krishnan",
-  publisher: "Adithya Krishnan",
+  authors: [{ name: "Aditya Wagh" }],
+  creator: "Aditya Wagh",
+  publisher: "Aditya Wagh",
   openGraph: {
-    title: "Adithya Krishnan ",
-    description: "a Software Engineer crafting Digital Experiences.",
-    url: "https://www.adithyakrishnan.com",
-    siteName: "Adithya Krishnan's Portfolio",
+    title: "Aditya Wagh",
+    description: "a Student Who building his dreams.",
+    url: "https://www.dragadi.com",
+    siteName: "Aditya Wagh's Portfolio",
     images: [
       {
-        url: "https://www.adithyakrishnan.com/logo.png",
+        url: "https://www.dragadi.com/logo.png",
         width: 1200,
         height: 630,
-        alt: "Adithya Krishnan's Portfolio",
+        alt: "Aditya's Portfolio",
       },
     ],
     locale: "en_US",
@@ -77,10 +77,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Adithya Krishnan ",
+    title: "Aditya Wagh",
     description: "a developer with a highly distractable brain",
-    images: ["https://www.adithyakrishnan.com/logo.png"],
-    creator: "@fal3n4ngel",
+    images: ["https://www.dragadi.com/logo.png"],
+    creator: "@DragAditya",
   },
   robots: {
     index: true,
@@ -99,7 +99,7 @@ export const metadata: Metadata = {
     shortcut: "/logo.png",
   },
   alternates: {
-    canonical: "https://www.adithyakrishnan.com",
+    canonical: "https://www.DragAdi.com",
   },
 };
 
