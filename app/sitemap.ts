@@ -1,6 +1,6 @@
 import { MetadataRoute } from 'next';
 
-const BASE_URL = 'https://adithyakrishnan.com';
+const BASE_URL = 'https://dragadi.com';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const urlList = [
