@@ -21,7 +21,7 @@ function ProjectSection() {
   useEffect(() => {
     async function fetchRepos() {
       const response = await fetch(
-        "https://api.github.com/users/fal3n-4ngel/repos",
+        "https://api.github.com/users/dragaditya/repos",
       );
       const data = await response.json();
 
