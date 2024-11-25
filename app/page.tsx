@@ -213,15 +213,15 @@ export default function Home() {
           </FadeUp>
           <div className="space-grotesk interactable hidden w-fit flex-col px-5 text-[2.8rem] leading-none tracking-tighter md:flex md:text-[4.4vw]">
             <div className="h-[8vh] overflow-hidden md:max-h-[8vh]">
-              <FadeUp className="flex text-black">I`m Adithya Krishnan,</FadeUp>
+              <FadeUp className="flex text-black">I`m Aditya Wagh</FadeUp>
             </div>
             <div className="h-[8vh] overflow-hidden md:max-h-[8vh]">
               <FadeUp className="text-black">
-                a Software Engineer crafting
+                a student who building
               </FadeUp>
             </div>
             <div className="h-[8vh] overflow-hidden md:max-h-[8vh]">
-              <FadeUp className="text-black">Digital Experiences.</FadeUp>
+              <FadeUp className="text-black">Dreams.</FadeUp>
             </div>
           </div>
           <div className="space-grotesk interactable flex flex-col px-5 text-left text-[2.15rem] leading-none tracking-tighter md:hidden md:text-6xl">
