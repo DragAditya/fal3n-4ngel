@@ -441,7 +441,7 @@ export default function Home() {
         <footer className="mt-[40px] flex h-full w-full flex-col justify-center bg-[#ececec] py-[40px] text-3xl font-thin text-black dark:bg-[#101010] dark:text-white">
           <div className="font-poppins mx-auto flex h-full w-full flex-col items-center justify-center text-xl md:w-[90%] md:flex-row md:justify-between">
             <div className="flex w-fit items-start justify-start p-5 text-center md:p-0">
-              © Adithya Krishnan 2024.
+              © DragAditya .
             </div>
             <div className="flex min-w-[600px] flex-col items-center justify-start text-justify md:flex-row md:justify-between">
               <div className="flex flex-col items-start md:w-full md:flex-row md:justify-between">
@@ -452,14 +452,14 @@ export default function Home() {
                   <RiGithubFill className="h-6 w-6" /> Github
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/fal3n-4ngel/"
+                  href="https://www.linkedin.com/in/DragAditya/"
                   className="interactable flex items-center gap-2 transition-all hover:scale-[110%] hover:animate-pulse"
                 >
                   <RiLinkedinBoxFill className="h-6 w-6" />
                   LinkedIn
                 </a>
                 <a
-                  href="mailto:adiadithyakrishnan@gmail.com"
+                  href="mailto: waghaditya312@gmail.com"
                   className="interactable flex items-center gap-2 transition-all hover:scale-[110%] hover:animate-pulse"
                 >
                   <RiMailFill className="h-6 w-6" />
