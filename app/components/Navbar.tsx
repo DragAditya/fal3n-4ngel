@@ -21,23 +21,23 @@ function Navbar() {
         href="/"
         className="font-poppins text-[2.0rem] text-black transition-all duration-300 hover:opacity-25 dark:text-white md:min-w-[100px] md:text-[1.2vw]"
       >
-        Adi.
+        DragAdi.
       </a>
       <div className="hidden items-center gap-8 md:flex">
         <a
-          href="https://github.com/fal3n-4ngel"
+          href="https://github.com/dragaditya"
           className="githubLogo font-poppins text-[2.5rem] text-black transition-all duration-300 hover:opacity-25 dark:text-white md:text-[1vw]"
         >
           github
         </a>
         <a
-          href="https://www.linkedin.com/in/fal3n-4ngel/"
+          href="https://www.linkedin.com/in/dragaditya/"
           className="linkedinLogo font-poppins text-[2.5rem] text-black transition-all duration-300 hover:opacity-25 dark:text-white md:text-[1vw]"
         >
           linkedin
         </a>
         <a
-          href="/Resume Adithya Krishnan Nov.pdf"
+          href="/Resume.pdf"
           className="resumeLogo font-poppins text-[2.5rem] text-black transition-all duration-300 hover:opacity-25 dark:text-white md:text-[1vw]"
         >
           resume
@@ -45,13 +45,13 @@ function Navbar() {
       </div>
       <div className="flex items-center gap-4 md:hidden">
         <a
-          href="https://github.com/fal3n-4ngel"
+          href="https://github.com/dragaditya"
           className="font-poppins text-[2.5rem] text-black transition-all duration-300 hover:opacity-25 dark:text-white md:text-[1vw]"
         >
           <Image src="icons/github.svg" width={20} height={20} alt="github" />
         </a>
         <a
-          href="https://www.linkedin.com/in/fal3n-4ngel/"
+          href="https://www.linkedin.com/in/dragaditya/"
           className="font-poppins text-[2.5rem] text-black transition-all duration-300 hover:opacity-25 dark:text-white md:text-[1vw]"
         >
           <Image
@@ -62,13 +62,13 @@ function Navbar() {
           />
         </a>
         <a
-          href="/Resume Adithya Krishnan Nov.pdf"
+          href="/Resume.pdf"
           className="resumeLogo font-poppins text-[2.5rem] text-black transition-all duration-300 hover:opacity-25 dark:text-white md:text-[1vw]"
         >
           <Image src="icons/resume.svg" width={15} height={15} alt="x" />
         </a>
         <a
-          href="mailto:hello@adithyakrishnan.com"
+          href="mailto: waghaditya312@gmail.com"
           className="font-poppins text-[2.5rem] text-black transition-all duration-300 hover:opacity-25 dark:text-white md:text-[1vw]"
         >
           <Image src="icons/mail.svg" width={20} height={20} alt="mail" />
@@ -79,7 +79,7 @@ function Navbar() {
           href="mailto:hello@adithyakrishnan.com"
           className="mailLogo font-poppins text-[2.5rem] text-black transition-all duration-300 hover:opacity-25 dark:text-white md:text-[1vw]"
         >
-          hello@adithyakrishnan.com
+          waghaditya312@gmail.com
         </a>
         <div className="hidden">
           <DarkModeSwitch />
