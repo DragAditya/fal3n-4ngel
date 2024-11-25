@@ -217,7 +217,7 @@ export default function Home() {
             </div>
             <div className="h-[8vh] overflow-hidden md:max-h-[8vh]">
               <FadeUp className="text-black">
-                a student who building
+                a student who building his
               </FadeUp>
             </div>
             <div className="h-[8vh] overflow-hidden md:max-h-[8vh]">
@@ -234,7 +234,7 @@ export default function Home() {
               <FadeUp className="text-black">a student who</FadeUp>
             </div>
             <div className="h-[40px] overflow-hidden">
-              <FadeUp className="text-black"> building</FadeUp>
+              <FadeUp className="text-black"> building his</FadeUp>
             </div>
             <div className="h-[40px] overflow-hidden">
               <FadeUp className="text-black">Dreams.</FadeUp>
@@ -279,7 +279,7 @@ export default function Home() {
                     <span className="text-md text-gray-400"></span>
                   </div>
                   <a
-                    href="https://www.nissanmotor.jobs/ami/india/ndi/index.html?ref=adithyakrishnan.com"
+                    href="https://pca.ac.in"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -295,7 +295,7 @@ export default function Home() {
                     <span className="text-md text-gray-400"></span>
                   </div>
                   <a
-                    href="https://www.oronium.com?ref=adithyakrishnan.com"
+                    href="https://pca.ac.in"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -313,7 +313,7 @@ export default function Home() {
                     <span className="text-md text-gray-400"></span>
                   </div>
                   <a
-                    href="https://github.com/Deflated-Pappadam"
+                    href="https://pca.ac.in"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -363,7 +363,7 @@ export default function Home() {
                     </div>
                     <div>BlockHash | kerala Block Chain Academy</div>
                     <a
-                      href="https://github.com/Deflated-Pappadam"
+                      href="https://github.com/DragAditya"
                       className="animate-pulse font-sans text-gray-400"
                     >
                       2023 (Team deflated pappadam)
@@ -376,7 +376,7 @@ export default function Home() {
                     </div>
                     <div>CodeCrypt Hackathon | Cusat</div>
                     <a
-                      href="https://github.com/Deflated-Pappadam"
+                      href="https://github.com/DragAditya"
                       className="animate-pulse font-sans text-gray-400"
                     >
                       2023 (Team deflated pappadam)
@@ -390,10 +390,10 @@ export default function Home() {
                 </div>
                 <div className="flex flex-col space-y-1 text-start font-normal md:hidden">
                   <div>Next.js, Angular.js, .NET, React.js</div>
-                  <div>C, Java, Python, C#, Javascript, Typescript</div>
+                  <div>C, Java, Python, C#, Javascript</div>
                   <div>Firebase, MongoDB, SQL</div>
-                  <div>Tailwind, Framer Motion, Gsap</div>
-                  <div>Flutter, Kotlin, Jetpack Compose</div>
+                  <div>Tailwind, Framer Motion</div>
+                  <div>Flutter, Kotlin, Figma</div>
                 </div>
               </FadeUp>
               <FadeUp>
@@ -446,7 +446,7 @@ export default function Home() {
             <div className="flex min-w-[600px] flex-col items-center justify-start text-justify md:flex-row md:justify-between">
               <div className="flex flex-col items-start md:w-full md:flex-row md:justify-between">
                 <a
-                  href="https://github.com/fal3n-4ngel"
+                  href="https://github.com/dragaditya"
                   className="interactable flex items-center gap-2 transition-all hover:scale-[110%] hover:animate-pulse"
                 >
                   <RiGithubFill className="h-6 w-6" /> Github
@@ -466,7 +466,7 @@ export default function Home() {
                   Email
                 </a>
                 <a
-                  href="/Resume Adithya Krishnan Nov.pdf"
+                  href="/Resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="interactable flex items-center gap-2 transition-all hover:scale-[110%] hover:animate-pulse"
