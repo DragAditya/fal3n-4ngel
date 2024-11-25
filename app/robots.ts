@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: '/private/',
     },
-    sitemap: 'https://adithyakrishnan.com/sitemap.xml',
+    sitemap: 'https://dragadi.com/sitemap.xml',
   };
 }
