@@ -76,7 +76,7 @@ function Navbar() {
       </div>
       <div className="hidden items-center gap-2 md:flex">
         <a
-          href="mailto:hello@adithyakrishnan.com"
+          href="mailto:waghaditya312@gmail.com"
           className="mailLogo font-poppins text-[2.5rem] text-black transition-all duration-300 hover:opacity-25 dark:text-white md:text-[1vw]"
         >
           waghaditya312@gmail.com
