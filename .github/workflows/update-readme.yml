@@ -34,6 +34,6 @@ jobs:
         with:
           commit_message: 'docs(README) : Update Generated Readme ' 
           branch: master
-          commit_user_name: fal3n-4ngel
-          commit_user_email: adiadithyakrishnan@gmail.com
-          commit_author: Adithya Krishnan
+          commit_user_name: DragAditya
+          commit_user_email: waghaditya312@gmail.com
+          commit_author: Adi
