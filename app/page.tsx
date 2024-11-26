@@ -358,10 +358,10 @@ export default function Home() {
                 <div className="flex flex-col space-y-1 font-normal">
                   <div className="interactable py-1">
                     <div className="font-semibold">
-                      Web3 for India 2030 Winner
+                      Web3 for India 2069 Winner
                       <span className="text-md text-gray-400"></span>
                     </div>
-                    <div>BlockHash | kerala Block Chain Academy</div>
+                    <div>BlockHash | Crypto Block Chain Academy</div>
                     <a
                       href="https://github.com/DragAditya"
                       className="animate-pulse font-sans text-gray-400"
@@ -371,12 +371,12 @@ export default function Home() {
                   </div>
                   <div className="interactable py-1">
                     <div className="font-semibold">
-                      Best Design , First Runner Up
+                      Admin Of A Year
                       <span className="text-md text-gray-400"></span>
                     </div>
-                    <div>CodeCrypt Hackathon | Cusat</div>
+                    <div>BulletNextGen1| Telegram</div>
                     <a
-                      href="https://github.com/DragAditya"
+                      href="https://t.me/BulletNextGen1"
                       className="animate-pulse font-sans text-gray-400"
                     >
                       2023 (Team deflated pappadam)
