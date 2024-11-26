@@ -34,7 +34,7 @@ import { IconType } from "react-icons";
 export const projects: Project[] = [
     {
       url1: "/Flash1.png",
-      name: "FLASH DRIVE",
+      name: "FLASH BiggerN",
       type: "Website",
       event: "College Project",
       date: "2023",
@@ -44,7 +44,7 @@ export const projects: Project[] = [
     },
     {
       url1: "/SOYO.png",
-      name: "STREAM OWN YOUR OWN",
+      name: "STREAM Own ASS",
       type: "Website",
       event: "Side Project",
       date: "2024",
