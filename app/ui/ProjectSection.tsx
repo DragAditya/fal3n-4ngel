@@ -66,7 +66,7 @@ function ProjectSection() {
         <FadeUp>
           <ProjBox
             url1="/Flash1.png"
-            name="FLASH DRIVE"
+            name="Flush Drive N"
             type="Website"
             event="College Project"
             date="2023"
